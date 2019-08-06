@@ -1,3 +1,27 @@
-.text-center {
+.header {
+  background: #1C4587;
   text-align: center;
+  padding-top: 17px;
+  color: white;
+}
+
+.center { 
+  text-align: center;
+  width: 25%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.footer {
+  padding-bottom: 55px;
+  background: #1C4587;
+}
+
+.image {
+  margin-left: auto;
+}
+}
+
+* {
+  outline: 1px solid red;
 }
